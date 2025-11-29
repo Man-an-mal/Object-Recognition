@@ -10,6 +10,7 @@ CIFAR-10 is a well-known benchmark that includes 60,000 labelled RGB images acro
 object categories, making it a great resource for image classification. On the other hand, the RGB-D Object 
 Dataset presents a more intricate challenge, containing over 300 object instances across 51 categories, with 
 RGB-D frames captured in real-world environments. 
+
 The goal of our comparison is to explore the trade-offs between traditional computer vision methods and 
 deep learning techniques. We’ll look at various factors, including accuracy, computational efficiency, 
 interpretability, and data requirements. Traditional methods, such as the Bag of Visual Words (BoVW) 
@@ -17,4 +18,5 @@ combined with Support Vector Machines (SVMs), tend to be lightweight and interpr
 often struggle to handle complex visual variations. Deep learning models, particularly CNNs, usually 
 deliver better performance but come with the need for large datasets, extensive computational resources, 
 and precise tuning. 
+
 Please read the file Object recognition for details.
